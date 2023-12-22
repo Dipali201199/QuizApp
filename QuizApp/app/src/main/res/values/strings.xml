@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="play_quiz">Start</string>
+    <string name="question">Question</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="_20">00:20</string>
+    <string name="total_score_0">Total Score: 0</string>
+    <string name="play_again">Play Again</string>
+    <string name="finish">Finish</string>
+    <string name="score_placeholder">Total Score: %1$s</string>
+    <string name="question_number_placeholder">Question 1</string>
+    <string name="total_score">Total Score: %1$s</string>
+
+
+
+</resources>
