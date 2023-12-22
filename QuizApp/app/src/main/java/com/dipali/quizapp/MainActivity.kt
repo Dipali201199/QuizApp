@@ -21,7 +21,6 @@ class MainActivity : AppCompatActivity() {
             onPlayGameButtonClick(it)
         }
     }
-
     private fun onPlayGameButtonClick(view: View) {
         val intent = Intent(this, QuizActivity::class.java)
         startActivity(intent)
